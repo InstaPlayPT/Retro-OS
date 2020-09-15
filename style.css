@@ -1,4 +1,15 @@
 
+html{
+    background-color: black;
+}
+
+body{
+
+    outline: 8px outset #82AD2A;
+    outline-offset: 0px;
+    height: 100%;
+}
+
 .label{
 
 text-align: center;
@@ -18,7 +29,7 @@ table{
 
 
 td{
-    width: 50%;
+    width: 33%;
     
 }
 
@@ -27,11 +38,11 @@ td{
 }
 
 body{
-    background-color: #9bbc0f;
+    background-color: #9ACD32;
 }
 
 html {
-    border: 0;
+  
     margin: 0;
     padding: 0;
     width: 100%;
@@ -110,8 +121,8 @@ html {
     height:15px; 
     width:15px;
     border-radius:50%;
-    background: linear-gradient(#AEADAA,#BAB7AE);
     margin:42px auto;
   }
+  
   
   
